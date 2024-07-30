@@ -1,0 +1,3 @@
+﻿  Homework1-2.cpp
+Homework1-2.obj : error LNK2005: _main 已在 Homework1-1.obj 中定義過了
+C:\Users\user\source\repos\Homework1-1\Debug\Homework1.exe : fatal error LNK1169: 找到有一或多個已定義的符號
